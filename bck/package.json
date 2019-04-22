@@ -6,11 +6,16 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
+    "body-parser": "~1.18.2",
+    "constantinople": "^3.1.2",
     "cookie-parser": "~1.4.3",
+    "cors": "^2.8.4",
     "debug": "~2.6.9",
-    "express": "~4.16.0",
-    "http-errors": "~1.6.2",
+    "express": "~4.15.5",
+    "express-fileupload": "^0.3.0",
     "jade": "~1.11.0",
-    "morgan": "~1.9.0"
+    "morgan": "~1.9.0",
+    "pug": "^2.0.3",
+    "serve-favicon": "~2.4.5"
   }
 }
