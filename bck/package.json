@@ -15,7 +15,7 @@
     "express-fileupload": "^1.1.9",
     "jstransformer": "^1.0.0",
     "morgan": "~1.9.0",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "serve-favicon": "~2.4.5"
   },
   "devDependencies": {
